@@ -1,0 +1,30 @@
+
+.background{
+  background-image: linear-gradient(direction, white, #0094e7 );
+}
+
+.row{
+    display:flex;
+    justify-content: center;
+}
+.column{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.background{
+  background-color: bisque;
+  opacity: 0.5;
+}
+
+.img{
+    justify-content: center;
+    padding-top: 15px;
+    margin-top: 15px;
+}
+
+.scam{
+  display:flex;
+  justify-content: center;
+}
